@@ -1,0 +1,7 @@
+$ PRJ2 .gitignore
+
+.vscode/**
+.vs/**
+*.exe
+
+###
