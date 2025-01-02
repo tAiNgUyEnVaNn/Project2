@@ -24,3 +24,8 @@
   - Hướng dẫn cài driver mạch nạp USBASP V2.0: https://www.instructables.com/USBASP-Installation-in-Windows-10/
   - Hàn jump và cắm connector và JP3 của mạch nạp
   - Không chỉnh fuse bit mà không biết trước ý nghĩa vì có thể đưa vđk vào trạng thái đặc biệt (vd: không có nguồn tạo dao động để hoạt động, không enable SPI,...)
+
+## Fuse bit (áp dụng với dùng dao động ngoài 8MHz)
+![image](https://github.com/user-attachments/assets/d55233b2-f2ae-419f-bd6f-09b29efb687c)
+
+
